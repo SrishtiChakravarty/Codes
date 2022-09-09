@@ -16,7 +16,7 @@ int main() {
 	{
 	    if(element==a[i])
 	    {
-	        cout<<"element found in an array at location"<<i<<endl;
+	        cout<<"element found in an array at location = "<<i<<endl;
 	    }
 	}
 	if(element==size)
